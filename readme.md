@@ -30,11 +30,3 @@ gateway service -> route to it
 
 create upstream for load balancing
 gateway service -> route to the upstream
-
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
